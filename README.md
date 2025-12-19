@@ -1,6 +1,6 @@
 # Bonjour et bienvenue ! 😊
 
-Vous êtes au bon endroit ! Ce dépôt GitHub contient des ressources pédagogiques sur JavaScript . Ces documents sont particulièrement adaptés aux niveaux 3ème Info et 4ème Info, mais ils serviront à tout autodidacte souhaitant apprendre ou réviser les bases du langage.
+Vous êtes au bon endroit ! Ce dépôt GitHub contient des ressources  sur JavaScript . Ces documents sont particulièrement adaptés aux niveaux 3ème Info et 4ème Info, mais ils serviront à tout autodidacte souhaitant apprendre ou réviser les bases du langage.
 
 
 
